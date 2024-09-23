@@ -15,6 +15,7 @@ const Navbar = () => {
       <ul>
         <a href="#hero">
           <li>Home</li>
+          <li>Home</li>
         </a>
         <a href="#programs">
           <li>Programs</li>
