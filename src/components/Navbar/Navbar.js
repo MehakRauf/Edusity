@@ -25,7 +25,9 @@ const Navbar = () => {
         <a href="#campus">
           <li>Campus</li>
         </a>
-        <li>Testimonials</li>
+        <a href="#testimonials">
+          <li>Testimonials</li>
+        </a>
         <li><button className='btn'>Contact us</button></li>
       </ul>
     </nav>
