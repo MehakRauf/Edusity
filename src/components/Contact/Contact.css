@@ -54,7 +54,17 @@
     resize: none;
 }
 
-.contact-cols span{
+.contact-cols span {
     display: block;
     margin: 20px 0;
+}
+
+@media(max-width: 700px) {
+    .contact {
+        display: block;
+    }
+
+    .contact-cols {
+        padding: 20px;
+    }
 }
